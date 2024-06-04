@@ -1,9 +1,10 @@
 Face Recognition Project
 ***************
-Created by Gabriel Baziramwabo
-Founder of Benax Technologies Ltd.
+Created by Nzambazamariya Rosine
+Embedded Specialist
 ***************
 1. File System:
+   
 The "tree" command typically returns the following file system:
 - ├── copy_images_from_clusters.py
 - ├── create_clusters.py
